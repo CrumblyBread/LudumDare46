@@ -1,4 +1,4 @@
-# LudumDare46
+# Get off my planet! &emsp;&emsp; LD46
 Project file and final build for Ludum Dare, a 48 hour game jam, forty sixth edition<br>
 Made and submited by CrumblyBread into the compo category
 
